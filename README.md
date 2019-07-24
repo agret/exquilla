@@ -1,3 +1,6 @@
+# github fork
+Original developer of the extension abandoned it, new owner has decided to charge for maintaince work on the extension but I believe it's still perfectly usable in TB60, although it will break in TB68 there's no reason people can't stay on the older TB60 builds of Thunderbird and continue to use the extension.
+
 # exquilla
 Extension for Thunderbird providing email and contact accounts using Exchange Web Services
 

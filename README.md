@@ -1,7 +1,11 @@
 # github fork
-Original developer of the extension abandoned it, new owner has decided to charge for maintaince work on the extension but I believe it's still perfectly usable in TB60, although it will break in TB68 there's no reason people can't stay on the older TB60 builds of Thunderbird and continue to use the extension.
+ExQuilla was originally developed by R Kent James. Due to retirement, ownership and responsibility has been taken over by Beonex GmbH.  
+
+After R Kent abandoned it the new owner has decided to charge for maintaince work on the extension but I believe the old version is still perfectly usable in TB60. The extension will break in TB68 but there's no reason people can't stay on the older TB60 builds of Thunderbird and continue to use the extension.
 
 I value that there is someone out there actively maintaining the extension for new versions of Thunderbird but if you are going to pay for it you are better off paying for their [Owl extension](https://addons.thunderbird.net/en-US/thunderbird/addon/owl-for-exchange/) which uses the new Thunderbird APIs and isn't in danger of the old API deprecation that is breaking Exquilla in the first place.
+
+Original notice of discontinuation by R Kent follows
 
 # exquilla
 Extension for Thunderbird providing email and contact accounts using Exchange Web Services
